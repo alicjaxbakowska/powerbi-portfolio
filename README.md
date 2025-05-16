@@ -21,3 +21,26 @@ Dashboard przedstawia analizę danych sprzedażowych sklepu rowerowego.
 
 ### Podgląd dashboardu:
 ![Dashboard Bike Store](./projekt-bike-store/dashboard.png)
+
+---
+
+## 📈 Projekt: Sales Performance – analiza wyników sprzedaży
+
+Dashboard przedstawia analizę miesięcznej sprzedaży i zachowań klientów w sklepie.
+
+### Zakres analizy:
+- przychód całkowity i jego zmiana miesiąc do miesiąca
+- średnia wartość zamówienia i liczba zamówień
+- współczynnik konwersji klientów z „Normal” na „Member”
+- porównanie wyników z targetem
+- rodzaje płatności i średnia cena jednostkowa
+
+### Kluczowe dane:
+- przychód w tym miesiącu: **$109,5 mln** (+12,59%)
+- średnia wartość zamówienia: **$317,26**
+- liczba zamówień: **345**
+- współczynnik konwersji: **48,12%**
+- całkowity przychód: **$322,97 mln** (vs target $292,45 mln)
+
+### Podgląd dashboardu:
+![Dashboard Sales Performance](./projekt-sales-performance/dashboard.png)
