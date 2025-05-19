@@ -1,6 +1,6 @@
  📊 Power BI Portfolio – Alicja Bakowska
 
-To repozytorium zawiera wybrane projekty stworzone w Power BI, prezentujące umiejętności analizy danych, tworzenia modeli i wizualizacji.
+To repozytorium zawiera wybrane projekty stworzone w Power BI.
 
 ---
 
